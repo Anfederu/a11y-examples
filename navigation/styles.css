@@ -12,9 +12,18 @@ form {
 .button {
   margin-top: 1rem;
   padding: 0.5rem;
-  background-color: rgb(132, 132, 220);
+  background-color: rgb(20 20 201);
   color: white;
   border-radius: 0.7rem;
   text-align: center;
   cursor: pointer;
+}
+
+label{
+  display: block;
+}
+
+input{
+   display: block;
+   margin: 5px 5px;
 }
